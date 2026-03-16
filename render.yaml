@@ -29,7 +29,7 @@ services:
       # If you do, you'll lose access to all credentials
       # encrypted with the previous value.
       - key: N8N_ENCRYPTION_KEY
-        generateValue: true
+        value: kS+/l7Vx52sSOrpMFVj+qGFPMz+IrNq4Fu1tTMwxWzI=
 
       # These automatically populate connection details 
       # for the Render Postgres database defined below
